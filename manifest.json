@@ -1,24 +1,65 @@
 {
+  "id": "https://thehacker88-01.github.io/",
   "name": "Job Card",
   "short_name": "Job Card",
-  "start_url": "./",
-  "scope": "./",
+  "description": "Create job cards on site: times, work carried out, parts, photos, customer rating and signatures, exported as PDF.",
+  "start_url": "https://thehacker88-01.github.io/",
+  "scope": "https://thehacker88-01.github.io/",
   "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "orientation": "portrait",
   "background_color": "#f2f4f7",
   "theme_color": "#0d5e66",
-  "description": "Field service job card generator",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://thehacker88-01.github.io/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://thehacker88-01.github.io/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://thehacker88-01.github.io/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://thehacker88-01.github.io/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://thehacker88-01.github.io/screenshots/screen-1.png",
+      "sizes": "824x1760",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Work carried out with linked pick-lists"
+    },
+    {
+      "src": "https://thehacker88-01.github.io/screenshots/screen-2.png",
+      "sizes": "824x1760",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Customer rating and sign-off"
     }
   ]
 }
