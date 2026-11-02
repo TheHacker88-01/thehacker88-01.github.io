@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.JobCard.App",
-        "sha256_cert_fingerprints": ["CD:36:8F:72:14:5B:7A:3A:96:DD:EB:76:0C:6F:FC:8F:11:C9:8A:81:3A:B2:D9:86:71:66:94:34:B5:D7:86:C1"]
+        "sha256_cert_fingerprints": ["BA:54:D5:18:46:88:E2:AA:E6:75:EA:1A:B8:BF:4D:1D:8E:AA:9B:0B:8E:34:AD:C3:E9:77:D3:D0:C2:44:20:D7"]
       }
     }]
